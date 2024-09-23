@@ -1,0 +1,12 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background:url('./assets/movie-background.jpg')  no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+  }
+  
+  h1 {
+    color: #333;
+  }
